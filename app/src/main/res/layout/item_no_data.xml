@@ -14,12 +14,15 @@
 
 
         <TextView
-            style="@style/text_15_color_1_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_gravity="bottom|center_horizontal"
             android:drawablePadding="18dp"
             android:drawableTop="@drawable/gongdanlishi"
             android:gravity="center"
-            android:text="当前还啥都没有哟~" />
+            android:text="当前还啥都没有哟~"
+            android:textColor="@color/text_color_1"
+            android:textSize="15dp" />
 
     </FrameLayout>
 

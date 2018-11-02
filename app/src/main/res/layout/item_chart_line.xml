@@ -14,9 +14,9 @@
         android:layout_gravity="center_horizontal|bottom"
         android:background="@drawable/white_solid_round_10"
         app:line_cover_width="3.5dp"
-        app:line_duration="2000"
+        app:line_duration="1500"
         app:line_hint_color="@color/main_blue"
-        app:line_isCanTouch="false"
+        app:line_isCanTouch="true"
         app:line_isFilled="true"
         app:line_unit="@string/string_unit_xt" />
 
