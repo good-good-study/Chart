@@ -7,27 +7,26 @@
 2. 曲线图/柱状图 添加触摸操作 ,显示当前选中的数据
 3. 优化控件onTouch事件与ScrollView滑动冲突 , 手指滑出控件区域 , scrollView拦截事件,响应自身滑动
 
---
 Usage:
 --
 1. Add it in your root build.gradle at the end of repositories:
-allprojects {
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://www.jitpack.io' }
+			}
 		}
-	}
 
 2. Add the dependency
-dependencies {
-       implementation 'com.github.good-good-study:Chart:1.0.0.0'
-}
+	dependencies {
+	       implementation 'com.github.good-good-study:Chart:1.0.0.0'
+	}
 
---
+
 有哪些图表?
 --
 BeizerCurveLine(贝塞尔曲线)、ChartPie(饼状图)、ChartBar(柱状图)
-
+--
 1. BeizerCurveLine
 
       <com.sxt.library.chart.BeizerCurveLine
