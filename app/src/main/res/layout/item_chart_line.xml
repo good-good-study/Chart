@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="10dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+    <com.sxt.library.chart.BeizerCurveLine xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/chart_line"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:background="@drawable/white_solid_round_10"
+        app:line_cover_width="3.5dp"
+        app:line_duration="2000"
+        app:line_hint_color="@color/main_blue"
+        app:line_isCanTouch="false"
+        app:line_isFilled="true"
+        app:line_unit="@string/string_unit_xt" />
+
+</FrameLayout>

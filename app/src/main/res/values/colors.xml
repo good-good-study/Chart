@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="main_orange">#FA8C1D</color>
+    <color name="main_body">#F5F5F5</color>
+    <color name="main_blue">#678BFD</color>
+    <color name="main_red">#FFABAB</color>
+    <color name="main_red_dark">#fd9090</color>
+    <color name="dividing_line">#E8E8E8</color>
+
+    <color name="main_orange2">#FF906E</color>
+    <color name="main_orange_pressed">#E17E1A</color>
+    <color name="main_blue_press">#FF2C54D2</color>
+    <color name="main_green">#7EC501</color>
+    <color name="main_green_pressed">#71B100</color>
+    <color name="text_color_1">#333333</color>
+    <color name="text_color_2">#666666</color>
+    <color name="text_color_3">#999999</color>
+    <color name="text_color_gray_3">#B8B8B8</color>
+    <color name="text_color_4">#FFF1F1</color>
+    <color name="text_color_5">#818791</color>
+    <color name="text_color_6">#4A4A4A</color>
+    <color name="text_color_7">#979797</color>
+    <color name="text_color_8">#D9D9D9</color>
+    <color name="text_color_red">#F4505B</color>
+    <color name="tab_color">#818791</color>
+    <color name="title_color_blue">#7EC501</color>
+    <color name="red">#F61E59</color>
+    <color name="red_1">#D01A4D</color>
+    <color name="red_2">#F76567</color>
+    <color name="red_3">#FA1E00</color>
+    <color name="red_4">#FB5454</color>
+    <color name="red_5">#FF1C1C</color>
+    <color name="red_6">#F74B35</color>
+    <color name="gray_f0f0f0f0">#F0F0F0</color>
+    <color name="blue_b3c4f9">#B3C4F9</color>
+    <color name="green_white">#ACD8EB</color>
+    <color name="translate_alpha">#80000000</color>
+    <color name="orange">#FFBB4D</color>
+    <color name="orange_1">#FFE9C5</color>
+    <color name="orange_light">#FFEA8A</color>
+    <color name="orange_dark">#fe7900</color>
+
+    <color name="app_icon_color">#B9D599</color>
+    <color name="alpha_sharder">#20000000</color>
+    <color name="line_yellow">#F7D611</color>
+    <color name="line_yellow_alpha">#FFEE87</color>
+    <color name="line_red">#FF7045</color>
+    <color name="line_red_alpha">#FFA78C</color>
+    <color name="line_violet">#987CFF</color>
+    <color name="line_violet_alpha">#CAA8FF</color>
+    <color name="line_blue">#09DAA0</color>
+    <color name="line_blue_alpha">#53F8C6</color>
+    <color name="line_red0">#FF7952</color>
+    <color name="line_red0_alpha">#FFA77D</color>
+
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="list_item_bg_normal">#FFFFFF</drawable>
+    <drawable name="list_item_bg_select">#ECF0F1</drawable>
+
+    <color name="resetpwd_edittexthint">#CBCBCB</color>
+    <color name="item_add_order_list_press">#FFF7EE</color>
+    <color name="yellow_rgb_253_202_78">#FDCA4E</color>
+    <color name="yellow_rgb_255_155_46">#FF9B2E</color>
+    <color name="violet_rgb_111_51_199">#6F33C7</color>
+    <color name="violet_rgb_147_118_205">#9376CD</color>
+    <color name="violet_rgb_185_101_255">#B965FF</color>
+    <color name="green_rgb_19_225_253">#13E1FD</color>
+    <color name="green_rgb_40_220_162">#28DCA2</color>
+    <color name="blue_rgba_24_261_255">#17A1FF</color>
+    <color name="red_rgb_255_127_87">#FF7F57</color>
+
+    <color name="yellow_sharder">#4DFDCA4E</color>
+    <color name="blue_sharder">#CC17A1FF</color>
+    <color name="violet_sharder">#ba9ad5</color>
+    <color name="red_sharder">#4DFA1E00</color>
+    <color name="green_sharder">#4D28DCA2</color>
+    <color name="alpha">#80000000</color>
+    <color name="alpha_1">#535353</color>
+    <color name="alpha_2">#5D535353</color>
+    <color name="percent_text_color_default">#009ACD</color>
+    <color name="percent_text_color">#3CB371</color>
+    <color name="percent_text_color_2">#A2CD5A</color>
+    <color name="progressbar_bg_color_default">#636363</color>
+    <color name="progress_color_default">#00C5CD</color>
+    <color name="progressbar_bg_color_1">#737373</color>
+    <color name="progress_color_1">#3CB371</color>
+    <color name="bg">#CDB5CD</color>
+    <color name="textDark">#222</color>
+    <color name="textLight">#555</color>
+
+    <color name="search_layover_bg">#50000000</color>
+
+</resources>

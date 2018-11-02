@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sleep_strings">
+        <item>离床次数(次)</item>
+        <item>安眠药</item>
+        <item>睡眠质量</item>
+    </string-array>
+
+    <string-array name="body_strings">
+        <item>血糖(mmol/L)</item>
+        <item>心跳(次/分)</item>
+        <item>血压(mmhg)</item>
+        <item>温度(℃)</item>
+    </string-array>
+
+    <string-array name="health_title_strings">
+        <item>心跳</item>
+        <item>血氧</item>
+        <item>收缩压</item>
+        <item>舒张压</item>
+        <item>血糖</item>
+        <item>体温</item>
+        <item>小腿围</item>
+        <item>体重</item>
+    </string-array>
+
+    <string-array name="health_unit_strings">
+        <item>次/分</item>
+        <item>%</item>
+        <item>mmHg</item>
+        <item>mmHg</item>
+        <item>mmol/L</item>
+        <item>℃</item>
+        <item>cm</item>
+        <item>kg</item>
+    </string-array>
+
+    <string name="string_unit_xt">(mmol/l)</string>
+    <string name="string_unit_hb">(次/分)</string>
+    <string name="string_unit_bt">(℃)</string>
+    <string name="string_unit_press">(mmhg)</string>
+    <string name="string_unit_step">(步)</string>
+    <string name="string_unit_lccs">(次)</string>
+    <string name="string_unit_fen">(份)</string>
+    <string name="string_unit_ml">(ml)</string>
+
+    <string name="string_label_snyd">室内移动</string>
+    <string name="string_label_jcfj">进出房间</string>
+    <string name="string_label_smfs">睡眠翻身</string>
+    <string name="string_label_lccs">离床次数</string>
+    <string name="string_rjlc">日间离床</string>
+    <string name="string_hdxs">活动形式</string>
+    <string name="string_label_smzl">睡眠质量</string>
+    <string name="string_label_xt">血糖</string>
+    <string name="string_label_hb">心跳</string>
+    <string name="string_label_press">血压</string>
+    <string name="string_label_bt">体温</string>
+    <string name="string_label_step">步数</string>
+    <string name="string_label_eat">进餐</string>
+    <string name="string_label_drink">饮水</string>
+    <string name="string_charbar_sleep_4">熟睡</string>
+    <string name="string_charbar_sleep_3">普通</string>
+    <string name="string_charbar_sleep_2">浅眠</string>
+    <string name="string_label_smzl_bad">差</string>
+    <string name="string_label_smzl_good">好</string>
+    <string name="string_chart_unit_month">月</string>
+    <string name="string_label_press_hight">高压</string>
+    <string name="string_label_press_lower">低压</string>
+</resources>

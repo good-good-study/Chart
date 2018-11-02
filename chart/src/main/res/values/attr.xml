@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BeizerCurveLine">
+        <attr name="line_isPlayAnimator" format="boolean" />
+        <attr name="line_isShowCoverLine" format="boolean" />
+        <attr name="line_isShowFloat" format="boolean" />
+        <attr name="line_isShowHintLines" format="boolean" />
+        <attr name="line_isShowXy" format="boolean" />
+        <attr name="line_isFilled" format="boolean" />
+        <attr name="line_isCanTouch" format="boolean" />
+        <attr name="line_duration" format="integer" />
+        <attr name="line_unit" format="string" />
+        <attr name="line_hint_color" format="color" />
+        <attr name="line_hint_width" format="dimension" />
+        <attr name="line_xy_color" format="color" />
+        <attr name="line_cover_width" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="ChartBar">
+        <attr name="bar_duration" format="integer" />
+        <attr name="bar_isUseAnimator" format="boolean" />
+        <attr name="bar_isCanTouch" format="boolean" />
+        <attr name="bar_line_xy_color" format="color" />
+        <attr name="bar_line_hint_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="ChartPie">
+        <attr name="pie_isUseAnimator" format="boolean" />
+        <attr name="pie_isDrawCenter" format="boolean" />
+        <attr name="pie_isDrawLines" format="boolean" />
+        <attr name="pie_line_color" format="color" />
+        <attr name="pie_text_color" format="color" />
+        <attr name="pie_duration" format="integer" />
+    </declare-styleable>
+</resources>
