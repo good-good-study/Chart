@@ -9,7 +9,7 @@
 
 Usage:
 --
-1. Add it in your root build.gradle at the end of repositories:
+1. 添加jitpack.io到你的project下的build.gradle:
 	allprojects {
 		repositories {
 			...
@@ -17,7 +17,7 @@ Usage:
 			}
 		}
 
-2. Add the dependency
+2. 添加依赖（app里面的build.gradle）
 	dependencies {
 	       implementation 'com.github.good-good-study:Chart:1.0.0.0'
 	}
